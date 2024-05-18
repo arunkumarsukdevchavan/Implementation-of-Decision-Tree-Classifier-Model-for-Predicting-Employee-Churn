@@ -47,7 +47,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
     Use trained model to make predictions on new data in a real-world application.
 
 ## Program:
-py
+```py
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: ARUN KUMAR SUKDEV CHAVAN
 RegisterNumber: 212222230013
@@ -87,7 +87,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-
+```
 ## Output:
 ### Initial data set:
 
@@ -111,4 +111,4 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/Yogeshvar005/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497367/d833d4d1-004b-42ae-b790-dcd450b6651e)
 
 ## Result:
-Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
+Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
